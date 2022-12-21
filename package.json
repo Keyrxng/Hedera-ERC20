@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@hashgraph/sdk": "^2.19.1",
-    "dotenv": "^16.0.3"
+    "@openzeppelin/contracts": "^4.8.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
   }
 }
